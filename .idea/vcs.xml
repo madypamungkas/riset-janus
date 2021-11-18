@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/janus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client/third_party/boringssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client/third_party/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client/third_party/djinni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client/third_party/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus-client/third_party/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus/third_party/boringssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus/third_party/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus/third_party/djinni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus/third_party/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/janus/third_party/json" vcs="Git" />
+  </component>
+</project>
